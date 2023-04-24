@@ -24,9 +24,9 @@
 
 Uniform surface temperature on every wall;
   
-  '''
+
   Unidirectionnal heat transfer inside every wall (length and height >> thickness);
-  '''
+
   
   All heat transfers are considered linear;
 
