@@ -1,24 +1,24 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Fh4jnCT2)
 
 
-Introduction
+# Introduction
 
 
 
 
 
 
-Plan of a two-zone building
+# Plan of a two-zone building
 
 
 
 
 
 
-Formulate the hypothesis for boundary conditions
+# Formulate the hypothesis for boundary conditions
 
 
-Boundary Conditions
+# Boundary Conditions
 
   Uniform surface temperature on every wall;
 
@@ -41,11 +41,11 @@ Other properties
 
 
 
-Chose the types of windows, doors, and walls
+# Chose the types of windows, doors, and walls
 
 
 
 
 
 
-Thermal circuit
+# Thermal circuit
