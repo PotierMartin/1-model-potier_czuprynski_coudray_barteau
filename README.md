@@ -15,4 +15,18 @@ Plan of a two-zone building
 
 
 
-Formulate the hypothesis for boundary conditions.
+Formulate the hypothesis for boundary conditions
+
+
+
+
+
+
+Chose the types of windows, doors, and walls
+
+
+
+
+
+
+Thermal circuit
