@@ -2,3 +2,17 @@
 
 
 Introduction
+
+
+
+
+
+
+Plan of a two-zone building
+
+
+
+
+
+
+Formulate the hypothesis for boundary conditions.
