@@ -22,10 +22,12 @@
 
 ## Boundary Conditions
 
-  Uniform surface temperature on every wall;
-
+Uniform surface temperature on every wall;
+  
+  '''
   Unidirectionnal heat transfer inside every wall (length and height >> thickness);
-
+  '''
+  
   All heat transfers are considered linear;
 
   Temperature of the exterior air = 25 °C;
